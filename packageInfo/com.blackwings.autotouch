@@ -1,0 +1,9 @@
+{
+  "name": "AutoTouch",
+  "desc_short": "Record and playback touch operations, play macro scripts automatically.",
+  "desc_long": null,
+  "compatitle": "iOS 8, 9, 10, 11, 12",
+  "changelog": null,
+  "screenshot": null
+}
+
