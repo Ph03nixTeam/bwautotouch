@@ -5,13 +5,6 @@ function iOSVersion() {
 	}
 	return false;
 }
-$(function() {
-  $("li").on("click",function() {
-	  if(this.id=="dnt") {
-		  $("#dnt_txt").html("You can donate BTC via address: 33t2gMyUAjRJa5nBae4974YDHdGUUAwAwy");
-	  }
-  });
-});
 function loadPackageInfo() {
 	if (navigator.userAgent.search(/Cydia/) == -1) {
 		$("#showAddRepo_").show();
