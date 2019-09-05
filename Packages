@@ -3,15 +3,13 @@ Name: AutoTouch
 Description: Record and playback touch operations, play macro scripts automatically.
 Section: Utilities
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, me.autotouch.AutoTouch.ios8
 Priority: optional
 Architecture: iphoneos-arm
 Author: Kent Krantz <kentkrantz@gmail.com>
-Homepage: https://autotouch.net
+Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
-Version: 5.1.5
-Filename: ./com.blackwings.autotouch_5.1.5_iphoneos-arm.deb
-MD5sum: 7646f3470981d0608a789f9e45900144
-Homepage: http://bwat.ph03nix.club
+Version: 5.2.4
+Filename: ./com.blackwings.autotouch_5.2.4_iphoneos-arm.deb
 Depiction: http://bwat.ph03nix.club/description.html?id=com.blackwings.autotouch
