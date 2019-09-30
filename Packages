@@ -12,4 +12,8 @@ Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 5.2.4
 Filename: ./com.blackwings.autotouch_5.2.4_iphoneos-arm.deb
 Depiction: http://bwat.ph03nix.club/description.html?id=com.blackwings.autotouch
-md5sum: 5974ffff59e0ebf5f6389bdff593d74d
+MD5sum: 5974ffff59e0ebf5f6389bdff593d74d
+SHA1:   c9aa3199e3c4854a7e66f8eadb32c35afa07a1dd
+SHA256: aebd6009fadb3d76d8d3804e6fb104c30179ca3e5e6923b34a7cb826037aa42a
+SHA512: 45eb55c679c86264f8b1b0f0eac1b0190f47b44be23c60c9ed29a480a250359a0e8c31c0b1da2cf3812a6ab79ff21eff1720646e4cdc51175a142561ee81525a
+
