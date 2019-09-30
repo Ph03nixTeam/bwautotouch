@@ -9,7 +9,6 @@ Architecture: iphoneos-arm
 Author: Kent Krantz <kentkrantz@gmail.com>
 Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
-Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 Version: 5.2.4
 Filename: ./com.blackwings.autotouch_5.2.4_iphoneos-arm.deb
 Depiction: http://bwat.ph03nix.club/description.html?id=com.blackwings.autotouch
