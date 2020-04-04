@@ -1,11 +1,11 @@
-Origin: BlackWings's Repo
+Origin: BlackWings Repo
 Label: BlackWings
-Suite: stable
+Suite: stablen
 Version: 1.0
 Codename: BlackWings
 Architecture: iphoneos-arm
 Components: main
-Description: BlackWings's Repo
+Description: BlackWings Repo
 MD5Sum:
- c20b9448bebd540cbe114c6c831b3a24 1849 Packages
- 4884f1418ba098e35f3189632ef82093 833 Packages.bz2
+ 4d6e6ed4e2a6785ebde64c9a932ae09b 3214 Packages
+ f8f9c0248dfa1277d62f0f1f06e2d5ba 1249 Packages.bz2
