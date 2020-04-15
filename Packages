@@ -11,12 +11,12 @@ Homepage: https://autotouch.net
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 5.1.5
 Filename: ./debs/com.blackwings.autotouch_5.1.5_iphoneos-arm.deb
-MD5sum: 1e4e35d4710a35d459306be2e358450a
-SHA1: 8f0b2a640247a04117a3ceb4713556694c744ca5
-SHA256: 1b715183eb39b46750963bfaa91a27ef3e08545f38d45ab22471b257a6a3612c
-SHA512: 5847bfd2f7289ef8dd4a9dd928d8ce6722d1251f2f8868500ee824b6322f6a084f419583fd357552ccdbee40fe7bcd4a0903dd0e78b573e19a2d3d2dec47a15a
+MD5sum: 51153e9c1d23e7dbf947d2e695f3f643
+SHA1: e83fbba8cd58c387302d3e7ed6ece7711ffcb768
+SHA256: 3eb9b6564070b4263fa459b304cba2442c2a63f982564df63f4f72ad9c96b936
+SHA512: f339ab6f660062a8502072ba1666953722695f46379d4a5de868819135319aa7e95663177e7c646e5ecc652e9d0ce2c6daababee96dbefdde47de4cf3e484fc1
 Depiction: https://bwat.ph03nix.club/description.html?id=com.blackwings.autotouch.515
-Size: 44971558
+Size: 44971614
 
 Package: com.blackwings.autotouch.524
 Name: AutoTouch v5.2.4 iOS 11 - 12
@@ -31,12 +31,12 @@ Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 5.2.4
 Filename: ./debs/com.blackwings.autotouch_5.2.4_iphoneos-arm.deb
-MD5sum: 26c15e495bf05ade8cc04b97bd2acd59
-SHA1: bb478c8010831e2dd79dea0fc78d8c50374d7034
-SHA256: 84275c55328e6e443a49439e88d5a0641126dd123e78dfd8b215de3de168e099
-SHA512: 62b4f7a74dd1da967aa898f814ab7d4bf503ad56c6a864b9e7b582435ce754ca8fbee27fffedcc6c8102cfbda25fc19f9c03bc2d87c447ca0adb79bd25e1c7f3
+MD5sum: f446b72a7525248f8612b5db42bdc9a7
+SHA1: 8602223f182c0ee40ce1526fb2af16fa68717d4d
+SHA256: 4210f343efd5d7e4782761855695af6edb3954d4563532ad79838dc13e915955
+SHA512: e4b08d063632d27355b4289085af62f2578690deacfaef1027b4a6437ca82d0544df489df11dc5a34b2af5f2a4538664eff60734c35b9532f408f4edbf6e31c1
 Depiction: https://bwat.ph03nix.club/description.html?id=com.blackwings.autotouch.524
-Size: 28751364
+Size: 28750372
 
 Package: com.blackwings.autotouch.526
 Name: AutoTouch v5.2.6 iOS 11 - 12
@@ -51,12 +51,12 @@ Homepage: https://autotouch.net
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 5.2.6
 Filename: ./debs/com.blackwings.autotouch_5.2.6_iphoneos-arm.deb
-MD5sum: 2f80a2467fe9c93ce8374f67545228a9
-SHA1: dc6152ada941668f63d9be34a6daef9e0c1032ec
-SHA256: 8c1177cedc95fdf68343a91c27884d5be2f6e019767c01fedb2d19b187b03c4e
-SHA512: 287e63aaf2bf4bb2f1acbff3145423852862ca8b16de9d3760078f16d1a63e3d559f0fd2d154570b4132b1b47e4b967e894606985859f703797ea1c2788b35d0
+MD5sum: 8967418d5eb816dcd79094d281897ffd
+SHA1: a25b48c4321c73c76141719ea6cca6a3c82f660f
+SHA256: 0cb380a9ebd04bde983246838e1b987c02924db188ea9b5f666922bfbb15401e
+SHA512: a14a402665e9ac3e8c7146432f67de9fabf62d46ffa49f02f063515b0fe96341ab92aa9033ac28607ef6393342686508c620aac60e8f421a549b0de08eca455c
 Depiction: https://bwat.ph03nix.club/description.html?id=com.blackwings.autotouch.526
-Size: 28755192
+Size: 28753156
 
 Package: com.blackwings.autotouch.612
 Name: AutoTouch v6.1.2 iOS 13
@@ -71,9 +71,9 @@ Homepage: https://bwat.ph03nix.club
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Version: 6.1.2
 Filename: ./debs/com.blackwings.autotouch_6.1.2_iphoneos-arm.deb
-MD5sum: de08070f19fb8c842f2610640691b5f9
-SHA1: 9971de1c4522c2a6ea2d3a0a0ba0984df811c5fa
-SHA256: d7ceda5717753ea51696e7c8c4673fc45d18adae647cf57a335de1d6def84a9e
-SHA512: bdf44ec9a773ea6a7289083af0b4f963d54721413609e54ebb3493b72ad125f26f42031e4b8ab4b8b524457a9d33d58ec209611bda13783b3a097a5fb7dd73c4
+MD5sum: 01ef1bb8fb258a24a07a406979df8907
+SHA1: 51fa7fb004691f0aebe82d650932c5df4d665a1c
+SHA256: 6cbdb6380574b6bda47c46a189ea624d8befab08d5de7d22e3f4b47517f03f52
+SHA512: e5d3d77319030c7c64b6321c93051c04497d36e1c90701c27a4570846c7afa42d742a463fc817d78b5e806f8245ea6339d815e4257995482e83a35f77ef2621d
 Depiction: https://bwat.ph03nix.club/description.html?id=com.blackwings.autotouch.612
-Size: 28708052
+Size: 28709988
